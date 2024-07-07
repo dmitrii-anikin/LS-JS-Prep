@@ -1,0 +1,1 @@
+// It logs undefined
